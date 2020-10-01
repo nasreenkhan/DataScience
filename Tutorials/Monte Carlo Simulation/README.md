@@ -21,6 +21,8 @@ To prepare the Monte Carlo simulation, you need 5,000 results.
 
 **Step 6:** Probability.
 
+![Simple Monte Carlo](https://image.slidesharecdn.com/reinforcement-learning-141009013546-conversion-gate02/95/reinforcement-learning-55-638.jpg?cb=1412818603)
+
 in this Tutorial you can learn/understand following examples
 1. Monte Carlo Buffon's Needle Problem
 
